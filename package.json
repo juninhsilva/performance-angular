@@ -53,7 +53,7 @@
     "@types/jest": "^26.0.12",
     "@types/node": "^12.12.62",
     "codelyzer": "^6.0.1",
-    "hads": "^2.1.0",
+    "hads": "^3.0.3",
     "htmlhint": "^0.14.1",
     "https-proxy-agent": "^5.0.0",
     "jasmine-core": "~3.6.0",
